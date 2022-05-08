@@ -16,6 +16,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+      <h1>Antwone Ramsey Project 4</h1>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Counter: {counter} <button onClick={increment} type="button">+</button>
