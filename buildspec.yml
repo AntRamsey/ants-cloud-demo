@@ -1,7 +1,7 @@
 version: 0.2
 
 phases:
-    intall:
+    install:
         commands:
             #download nodeJS & npm
             - curl -fsSL https://deb.nodesource.com/setup_16.x | bash -
